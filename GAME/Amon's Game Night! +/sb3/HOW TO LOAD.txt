@@ -1,0 +1,7 @@
+1. Open scratch.mit.edu
+2. Create a new project
+3. Click "File"
+4. Click "Load from your computer"
+
+Enjoy!
+- Tureen
